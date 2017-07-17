@@ -1,0 +1,7 @@
+---- FT_TV_BRIGHTNESS Matches (6 in 2 files) ----
+drv_l1_tv.c (driver_l1\common\src) line 170 :  *#define   FT_TV_BRIGHTNESS            2
+drv_l1_tv.c (driver_l1\common\src) line 187 :  *  - +/- mode: FT_TV_SATURATION/FT_TV_HUE/FT_TV_BRIGHTNESS/FT_TV_Y_GAIN/
+tv_adjustment_set in drv_l1_tv.c (driver_l1\common\src) : 		case FT_TV_BRIGHTNESS:
+drv_l1_tv.h (driver_l1\common\inc) line 243 :  *#define   FT_TV_BRIGHTNESS            2
+drv_l1_tv.h (driver_l1\common\inc) line 260 :  *  - +/- mode: FT_TV_SATURATION/FT_TV_HUE/FT_TV_BRIGHTNESS/FT_TV_Y_GAIN/
+drv_l1_tv.h (driver_l1\common\inc) line 269 : #define FT_TV_BRIGHTNESS                2
